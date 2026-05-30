@@ -1,0 +1,11 @@
+[
+  { "slot": "section-mockup",  "keyword": "control room monitors data dashboard", "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "section-about",   "keyword": "modern city hall civic architecture",            "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "section-cta",     "keyword": "city skyline aerial blue hour",                  "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "og-image",        "keyword": "smart city aerial skyline",                      "industry": "smart city govtech", "orientation": "landscape", "w": 1200, "h": 630 },
+  { "slot": "service-mobility","keyword": "city light rail transit intersection aerial",    "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "service-grid",    "keyword": "water power utility infrastructure facility",    "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "service-civic",   "keyword": "modern government building interior lobby",      "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "case-mobility",   "keyword": "urban traffic arterial road aerial",             "industry": "smart city govtech", "orientation": "landscape" },
+  { "slot": "case-grid",       "keyword": "clean water reservoir treatment plant",          "industry": "smart city govtech", "orientation": "landscape" }
+]

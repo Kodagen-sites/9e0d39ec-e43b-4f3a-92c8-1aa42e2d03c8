@@ -1,0 +1,19 @@
+{
+  "mode": "live-generate",
+  "company": "Polis",
+  "archetype": "G",
+  "g_render_mode": "scrub-cinematic",
+  "style": "S11",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "narrative_shape": "place-portrait",
+      "camera_vocabulary": "forward-dolly + top-down-descent",
+      "composition_pattern": "right-third",
+      "subject_position": "mid",
+      "lighting_temperature": "daylight-natural",
+      "industry_video_tone": "architecture-contemplative",
+      "durationSeconds": 8
+    }
+  ]
+}
